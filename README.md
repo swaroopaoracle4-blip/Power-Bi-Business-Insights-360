@@ -106,7 +106,9 @@ The **Marketing View** analyzes the impact of **operational costs, advertising &
 -  **Region, market, and customer performance comparison**  
 -  **Performance matrix** based on GM% and Net Profit % to assess marketing efficiency  
 -  **Market positioning insights** to support strategic planning  
--  **Overall marketing cost tracking** and spend effectiveness  
+-  **Overall marketing cost tracking** and spend effectiveness
+  ![Image](https://github.com/user-attachments/assets/927fd2b5-b421-422a-8c58-3a422a4ebdef)
+
 
 ---
 
