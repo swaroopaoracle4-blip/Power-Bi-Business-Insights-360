@@ -64,7 +64,9 @@ It provides buttons for each business function, allowing users to easily navigat
 -  **Supply Chain View** – Demand, supply, and operational metrics  
 -  **Executive View** – High-level KPIs for leadership decision-making  
 -  **Products** – Product-level performance analysis  
--  **Support** – Help, documentation, and contact details  
+-  **Support** – Help, documentation, and contact details
+  ![home-page](Resources/1.home-page.gif)
+
 
 ---
 
