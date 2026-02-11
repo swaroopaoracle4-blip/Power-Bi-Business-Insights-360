@@ -123,7 +123,7 @@ The **Supply Chain View** focuses on evaluating **forecast accuracy, demand vari
 -  **Customer- and product-level forecast performance analysis**  
 -  **Inventory risk assessment** with excess stock and stock-out indicators  
 -  **Supply chain KPI trend analysis** over time  
-
+![Image](https://github.com/user-attachments/assets/d1b536ab-aa78-48b0-a468-4d00d5e3b638)
 ---
 
 ###  Executive View
@@ -146,6 +146,7 @@ While AtliQ’s sales continue to grow, the analysis emphasizes the need to **op
 
 -  **Market Share Analysis**  
   - Competitive comparison of **AtliQ vs Dell, Lenovo, and HP** to assess market positioning  
+![Image](https://github.com/user-attachments/assets/de3a607c-c320-4e77-9274-b982f77897f8)
 
 ---
 
