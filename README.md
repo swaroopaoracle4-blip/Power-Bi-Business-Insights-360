@@ -80,7 +80,9 @@ Provides a comprehensive overview of **financial performance** through detailed 
 -  **Year-over-Year (YoY) comparison** and performance vs targets  
 -  **Monthly sales trend analysis** to identify growth patterns  
 -  **Detailed P&L statement** with revenue, cost, and margin breakdown  
--  **Top & Bottom customer and product analysis** to identify performance drivers  
+-  **Top & Bottom customer and product analysis** to identify performance drivers
+  ![Image](https://github.com/user-attachments/assets/3cb64cd6-9165-4530-a5be-4c0b0bf882c6)
+
 
 ---
 ###  Sales View
