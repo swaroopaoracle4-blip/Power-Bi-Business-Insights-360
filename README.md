@@ -1,9 +1,7 @@
 #  Business Insights 360 – Power BI Dashboard
 
 ## 🔗 Project Links
--  **Live Dashboard:** https://tinyurl.com/mr3zkdv6  
-- **Video Presentation:** https://www.youtube.com/watch?v=Ua3nyMObeyE  
-- **LinkedIn Post:** https://tinyurl.com/4w6mwca7  
+-  **Live Dashboard:** https://app.powerbi.com/groups/me/reports/3f4c5bfb-dd86-4dc7-8ef7-08aaa7639e95/ffc21cdf8b936ee27ae8?experience=power-bi 
 
 ---
 
