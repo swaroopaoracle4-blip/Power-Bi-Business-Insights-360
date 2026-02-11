@@ -95,6 +95,7 @@ Interactive tooltips enable users to explore **monthly sales trends**, helping s
 -  **Unit economics analysis** with detailed COGS breakdown  
 -  **Regional sales performance comparison**  
 -  **Time-based sales trend analysis** for growth tracking  
+  ![Image](https://github.com/user-attachments/assets/927fd2b5-b421-422a-8c58-3a422a4ebdef)
 
 ---
 
@@ -107,7 +108,8 @@ The **Marketing View** analyzes the impact of **operational costs, advertising &
 -  **Performance matrix** based on GM% and Net Profit % to assess marketing efficiency  
 -  **Market positioning insights** to support strategic planning  
 -  **Overall marketing cost tracking** and spend effectiveness
-  ![Image](https://github.com/user-attachments/assets/927fd2b5-b421-422a-8c58-3a422a4ebdef)
+![Image](https://github.com/user-attachments/assets/aa627a12-d029-41b2-aed0-127eee30f86e)
+
 
 
 ---
