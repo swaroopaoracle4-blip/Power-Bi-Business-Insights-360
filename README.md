@@ -65,7 +65,7 @@ It provides buttons for each business function, allowing users to easily navigat
 -  **Executive View** – High-level KPIs for leadership decision-making  
 -  **Products** – Product-level performance analysis  
 -  **Support** – Help, documentation, and contact details
-  ![home-page](Resources/1.home-page.gif)
+  ![Image](https://github.com/user-attachments/assets/6bc2c6e7-6689-476b-bca6-76840cb18d3c)
 
 
 ---
